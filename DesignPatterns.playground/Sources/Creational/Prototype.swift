@@ -14,7 +14,7 @@ extension Copying {
 
 public class GameStatus: Copying {
     
-    let level: Int
+    var level: Int
     init(withLevel level: Int) {
         self.level = level
     }
@@ -22,6 +22,11 @@ public class GameStatus: Copying {
     required convenience public init(withPrototype prototype: GameStatus) {
         self.init(withLevel: prototype.level)
     }
-    
 }
 
+public func prototypeExample() {
+    let game1 = GameStatus(withLevel: 10)
+    let game2 = game1.copy()
+    game2.level = 20
+    print("Game1 level: \(game1.level); Game2 level: \(game2.level)")
+}

@@ -7,11 +7,13 @@ strategyExample()
 delegationExample()
 observerExample()
 iteratorExample()
+stateExample()
 
 // Creational
 builderExample()
 singletonExample()
 factoryExample()
+prototypeExample()
 
 // Structural
 mvcExample()
