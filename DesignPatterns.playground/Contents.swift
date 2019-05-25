@@ -8,6 +8,7 @@ delegationExample()
 observerExample()
 iteratorExample()
 stateExample()
+multicastDelegateExample()
 
 // Creational
 builderExample()
