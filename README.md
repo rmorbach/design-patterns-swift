@@ -5,9 +5,9 @@ Playground with sample code of common design patterns in Swift
 
 ### Creational
 
-* [Builder]([DesignPatterns.playground/Sources/Creational/Builder.swift]
-* [Factory]([DesignPatterns.playground/Sources/Creational/Factory.swift]
-* [Prototype]([DesignPatterns.playground/Sources/Creational/Prototype.swift]
+* [Builder](DesignPatterns.playground/Sources/Creational/Builder.swift)
+* [Factory](DesignPatterns.playground/Sources/Creational/Factory.swift)
+* [Prototype](DesignPatterns.playground/Sources/Creational/Prototype.swift)
 
 ### Behavioral
 
