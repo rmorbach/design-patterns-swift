@@ -9,6 +9,7 @@ observerExample()
 iteratorExample()
 stateExample()
 multicastDelegateExample()
+mediatorExample()
 
 // Creational
 builderExample()
@@ -20,5 +21,6 @@ prototypeExample()
 mvcExample()
 mvvmExample()
 facadeExample()
+flyWeightExample()
 
 

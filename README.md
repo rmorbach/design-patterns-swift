@@ -20,9 +20,11 @@ Playground with sample code of common design patterns in Swift
 * [Observer](DesignPatterns.playground/Sources/Behavioral/Observer.swift)
 * [State](DesignPatterns.playground/Sources/Behavioral/State.swift)
 * [Strategy](DesignPatterns.playground/Sources/Behavioral/Strategy.swift)
+* [Mediator](DesignPatterns.playground/Sources/Behavioral/Mediator.swift)
 
 ### Structural
 
 * [MVC](DesignPatterns.playground/Sources/Structural/MVC.swift)
 * [MVVM](DesignPatterns.playground/Sources/Structural/MVVM.swift)
 * [Facade](DesignPatterns.playground/Sources/Structural/Facade.swift)
+* [Flyweight](DesignPatterns.playground/Sources/Structural/Flyweight.swift)
