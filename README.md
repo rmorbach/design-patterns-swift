@@ -28,3 +28,4 @@ Playground with sample code of common design patterns in Swift
 * [MVVM](DesignPatterns.playground/Sources/Structural/MVVM.swift)
 * [Facade](DesignPatterns.playground/Sources/Structural/Facade.swift)
 * [Flyweight](DesignPatterns.playground/Sources/Structural/Flyweight.swift)
+* [Composite](DesignPatterns.playground/Sources/Structural/Composite.swift)

@@ -22,5 +22,7 @@ mvcExample()
 mvvmExample()
 facadeExample()
 flyWeightExample()
+compositeExample()
+
 
 
