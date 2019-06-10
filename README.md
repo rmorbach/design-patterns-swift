@@ -21,7 +21,8 @@ Playground with sample code of common design patterns in Swift
 * [State](DesignPatterns.playground/Sources/Behavioral/State.swift)
 * [Strategy](DesignPatterns.playground/Sources/Behavioral/Strategy.swift)
 * [Mediator](DesignPatterns.playground/Sources/Behavioral/Mediator.swift)
-
+* [Chain-of-Responsibility](DesignPatterns/Sources/Behavioral/ChainOfResponsability.swift)
+* [Command](DesignPatterns.playground/Sources/Behavioral/Command.swift)
 ### Structural
 
 * [MVC](DesignPatterns.playground/Sources/Structural/MVC.swift)

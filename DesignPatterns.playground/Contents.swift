@@ -10,6 +10,8 @@ iteratorExample()
 stateExample()
 multicastDelegateExample()
 mediatorExample()
+commandExample()
+chainOfResponsabilityExample()
 
 // Creational
 builderExample()
